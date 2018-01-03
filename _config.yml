@@ -8,7 +8,7 @@ name: 罗永
 # Short bio or description (displayed in the header)
 description: Android Developer
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:https://raw.githubusercontent.com/weiyouyinzhen/weiyouyinzhen.github.io/master/images/avatar.jpg
+avatar: https://raw.githubusercontent.com/weiyouyinzhen/weiyouyinzhen.github.io/master/images/avatar.jpg
 
 #
 # Flags below are optional
@@ -17,10 +17,10 @@ avatar:https://raw.githubusercontent.com/weiyouyinzhen/weiyouyinzhen.github.io/m
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:weiyouyinzhen@hotmail.com
+  email: weiyouyinzhen@hotmail.com
   facebook:
   flickr:
-  github:https://github.com/weiyouyinzhen
+  github: https://github.com/weiyouyinzhen
   instagram:
   linkedin:
   pinterest:
