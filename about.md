@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+这是一个关于我的内容需要修改
 
 ### More Information
 
@@ -12,4 +12,4 @@ Some information about you!
 
 ### Contact me
 
-[email@domain.com](mailto:weiyouyinzhen@hotmail.com)
+[weiyouyinzhen@hotmail.com](mailto:weiyouyinzhen@hotmail.com)
